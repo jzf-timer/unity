@@ -21,6 +21,7 @@
 - ![avatar](/image/系统变量设置3.png)
 
 3.验证java安装
+
 1.win+r，输入cmd
 
 2.![avatar](/image/java2.png)
