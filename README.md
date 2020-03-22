@@ -38,8 +38,21 @@
 
 2.switch platform 适配安卓，选择 add open scen 建立环境（勾选）
 
+
+
+
+
+
+
 3.在菜单栏file下选择Build Setting
 ![avatar](/image/unity3.png)
+
+
+
+
+
+
+
 
 4.点击player setting更改命名后点击build即可导出一个apk文件
 ![avatar](/image/unity4.png)
